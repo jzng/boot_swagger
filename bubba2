@@ -1,5 +1,9 @@
 This is bubba2.
 
 Second change for this file.
+<<<<<<< HEAD
 
 Local change.
+=======
+To cause merge.
+>>>>>>> cdce22789d18ce051816d7fc7b5de60bcacf6194
